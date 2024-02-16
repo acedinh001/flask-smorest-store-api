@@ -1,0 +1,4 @@
+stores_rest_api_env
+.vscode
+__pycache__
+instance
